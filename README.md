@@ -1,2 +1,3 @@
-# .github
-ProFACE dev ops
+# ProFACE
+
+Home of the ProFACE development team.
